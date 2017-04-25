@@ -1,7 +1,7 @@
 # DataMining
 
-Here it is My datamining assignments
+My datamining assignments
 
-Kharazmi University - Dr Taherian
+Kharazmi University - Prof.Taherian
 
 2016-2017
